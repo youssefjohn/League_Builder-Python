@@ -1,6 +1,4 @@
 import csv
-import sys
-import random
 
 players = []
 sharks = []
